@@ -28,8 +28,3 @@
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-''' ![ABINASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinashsasi&theme=dark&show_icons=true&&hide=issues,contribs)
-
-
-[![ABINASH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abinashsasi&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/abinashsasi/github-readme-activity-graph)
-
